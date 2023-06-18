@@ -1,2 +1,2 @@
 # takehometask
-Take home task by Optymyze
+I have used PostgreSQL instead of H2 database
